@@ -6,6 +6,9 @@ Curto Linux, animes, mangás, novels e jogos. Também gosto de ver uma ideia sai
 
 Por aqui eu exploro desenvolvimento web, inteligência artificial e automações. Ainda estou aprendendo bastante. A **Lunari** é o projeto que me faz voltar, testar mais uma coisa e descobrir outro problema pra resolver.
 
+<p align="center"><img src="assets/bocchi.gif" alt="Bocchi, de Bocchi the Rock!, encarando a tela com timidez." width="260"></p>
+<p align="center"><sub>Bocchi the Rock! · pausa entre capítulos</sub></p>
+
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/ambiente.png">
   <img src="assets/ambiente.gif" alt="Chuva suave na janela de um quarto noturno. Animação original, sem personagens de terceiros." width="100%">
