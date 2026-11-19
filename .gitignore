@@ -1,0 +1,7 @@
+.local/
+__pycache__/
+*.pyc
+
+# Materiais locais de design e comparação; não fazem parte do perfil publicado.
+propostas/
+design/
